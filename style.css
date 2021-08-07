@@ -1,9 +1,10 @@
   body{
     background-color: #88FFF7;
   }
-  img{
+  img:hover{
     height: 170px;
     border-radius: 100%;
+    background-color: gold;
   }
   h1{
     color: #986D8E;
