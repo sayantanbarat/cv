@@ -1,7 +1,7 @@
   body{
     background-color: #88FFF7;
   }
-  img:hover{
+  img{
     height: 170px;
     border-radius: 100%;
    }
